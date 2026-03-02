@@ -1,29 +1,4 @@
 {
   "releaseTag": "plugin-release-2026-03-03",
-  "plugins": [
-    {
-      "id": "AkkaSync.Plugins.Transformer.DbTable",
-      "version": "1.0.0",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-03/AkkaSync.Plugins.Transformer.DbTable-v1.0.0.zip",
-      "checksum": "sha256:bbfeedde7272c751dba8637f6b2efa27efb3afd4ca656f913d36b21f7c856a0d"
-    },
-    {
-      "id": "AkkaSync.Plugins.HistoryStore.InMemory",
-      "version": "1.0.0",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-03/AkkaSync.Plugins.HistoryStore.InMemory-v1.0.0.zip",
-      "checksum": "sha256:ba7d2fbbc502c90d8d2e494f5b67debc597fea06a423b3c7891b645685f919ee"
-    },
-    {
-      "id": "AkkaSync.Plugins.Sink.Sqlite",
-      "version": "1.0.0",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-03/AkkaSync.Plugins.Sink.Sqlite-v1.0.0.zip",
-      "checksum": "sha256:dc21c937e7b002a2387017581abb3c0ae231452c4c092cd4d2b8103da430740f"
-    },
-    {
-      "id": "AkkaSync.Plugins.Source.File",
-      "version": "1.0.0",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-03/AkkaSync.Plugins.Source.File-v1.0.0.zip",
-      "checksum": "sha256:2ca3c3fa02ab3289b1f35acbf37e3ac222bb738d727326a9246d8b2f7c96681c"
-    }
-  ]
+  "plugins": []
 }
