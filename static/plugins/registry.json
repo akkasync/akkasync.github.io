@@ -5,25 +5,25 @@
       "id": "AkkaSync.Plugins.Source.File",
       "version": "1.0.0",
       "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-13/AkkaSync.Plugins.Source.File.zip",
-      "checksum": "sha256:908cefc7a11c5b261bd1a933676aef206590d9d68ba9c21109bd4ebac05552d5"
+      "checksum": "sha256:6b31aee748f431578b22576fa6b36d7d2fd4f235ba7a7f6fe94bb83651712d2e"
     },
     {
       "id": "AkkaSync.Plugins.Transformer.DbTable",
       "version": "1.0.0",
       "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-13/AkkaSync.Plugins.Transformer.DbTable.zip",
-      "checksum": "sha256:b4e2a5811fa84bb54df911816e51e4d3db99c44f8ea7eecc05c262e6d6bca312"
+      "checksum": "sha256:3cc6f7ba223eb2bdbe836842c0012d1bcf8f3a6ac02ef0dba0bccb980a29db57"
     },
     {
       "id": "AkkaSync.Plugins.Sink.Sqlite",
       "version": "1.0.0",
       "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-13/AkkaSync.Plugins.Sink.Sqlite.zip",
-      "checksum": "sha256:3a3910b108f507fba769a5ea07064d419c7e70baa6788f4d3872a19b474d085c"
+      "checksum": "sha256:c711a18eb189fcfa34f2560fd21602d618abb646f33e473a1bdd0038a831a932"
     },
     {
       "id": "AkkaSync.Plugins.HistoryStore.InMemory",
       "version": "1.0.0",
       "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-03-13/AkkaSync.Plugins.HistoryStore.InMemory.zip",
-      "checksum": "sha256:f6b4ed7c6c251b4e4ef11b7b7549f268a8a168e5250506bb5ba892f5ab474888"
+      "checksum": "sha256:3a14c06d0015abf0bd4f4941283fccda31df4a689ff2f140cc3890a804df3475"
     }
   ]
 }
