@@ -1,26 +1,26 @@
 {
-  "releaseTag": "plugin-release-2026-05-01",
+  "releaseTag": "plugin-release-2026-05-08",
   "plugins": [
     {
       "id": "AkkaSync.Plugins.Transform.DbTable",
-      "version": "1.0.1",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-01/AkkaSync.Plugins.Transform.DbTable.zip",
+      "version": "1.0.2",
+      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-08/AkkaSync.Plugins.Transform.DbTable.zip",
       "provider": "TableTransformProvider",
-      "checksum": "sha256:d577826065844351680bc3f796b334f736b4a59068dcbdc570b6c6afae125cf1"
+      "checksum": "sha256:e29562e8154889b04bf42903c9d89f1a1954c1e84df34a321cc4e9fd2362fc8e"
     },
     {
       "id": "AkkaSync.Plugins.Sink.Sqlite",
-      "version": "1.0.2",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-01/AkkaSync.Plugins.Sink.Sqlite.zip",
+      "version": "1.0.3",
+      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-08/AkkaSync.Plugins.Sink.Sqlite.zip",
       "provider": "SqliteSinkProvider",
-      "checksum": "sha256:04ed05ef54e9623e1003d6ac666164c111aa42c9ded2484c5168b217c0c7e49b"
+      "checksum": "sha256:ee08175141a2626823ebedc4adca117d499d73eee75d7c90970caf36277f2ce2"
     },
     {
       "id": "AkkaSync.Plugins.Source.File",
-      "version": "1.0.2",
-      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-01/AkkaSync.Plugins.Source.File.zip",
+      "version": "1.0.3",
+      "url": "https://github.com/oninebx/AkkaSync.Plugins/releases/download/plugin-release-2026-05-08/AkkaSync.Plugins.Source.File.zip",
       "provider": "FolderWatcherSourceProvider",
-      "checksum": "sha256:514345067face6f45d5c1f5a533f0e21942280c74d924843c414865799aee5b7"
+      "checksum": "sha256:a26587c240c471080b1f5d965ee1eba276a6c0901789925351b3a4a01e77bc77"
     }
   ]
 }
